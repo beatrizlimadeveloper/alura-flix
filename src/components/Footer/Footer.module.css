@@ -1,0 +1,15 @@
+.footer{
+  border-top: 2px solid var(--white);
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 2rem;
+  background-color: var(--black-800);
+
+  & p{
+    font-size: 1.175rem;
+  }
+}

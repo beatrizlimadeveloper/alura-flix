@@ -1,0 +1,231 @@
+{
+  "categorias":[
+    {
+      "id":1,
+      "nome": "Marvel",
+      "cor": "#a50f16",
+      "destaque": true
+    },
+    {
+      "id": 2,
+      "nome": "DC Comics",
+      "cor": "#a50f16",
+      "destaque": false
+    },
+    {
+      "id":3,
+      "nome": "Games",
+      "cor": "#a50f16",
+      "destaque": false
+    },
+    {
+      "id":4,
+      "nome": "Alura",
+      "cor": "#a50f16",
+      "destaque": false
+    }
+  ],
+
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Guardiões da Galáxia vol. 3",
+      "descricao": "Em Guardiões da Galáxia Vol. 3 dos Marvel Studios, nossos desajustados estão se ajustando à vida em Lugarnenhum. Mas não demora muito para que ecos do passado turbulento de Rocket atrapalhem. Peter Quill vai reunir sua equipe para uma perigosa missão: salvar Rocket – missão que, se falhar, pode levar ao fim dos Guardiões como os conhecemos.",
+      "capa": "https://i.ytimg.com/vi/d1yNc9skssk/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/d1yNc9skssk",
+      "linkRedirect": "https://www.youtube.com/watch?v=d1yNc9skssk",
+      "categoria": "Marvel",
+      "videoDestaque": true
+    },
+    {
+      "id": 2,
+      "titulo": "Homem-Aranha - Sem Volta Para Casa",
+      "descricao": "Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores precisam enfrentar inimigos de todo o multiverso.",
+      "capa": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/CyiiEJRZjSU",
+      "linkRedirect": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "categoria": "Marvel",
+      "videoDestaque": false
+    },
+    {
+      "id": 3,
+      "titulo": "Pantera Negra - Wakanda Para Sempre",
+      "descricao": "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.",
+      "capa": "https://i.ytimg.com/vi/FR9iLjOubWc/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/FR9iLjOubWc",
+      "linkRedirect": "https://www.youtube.com/watch?v=FR9iLjOubWc",
+      "categoria": "Marvel",
+      "videoDestaque": false
+    },
+    {
+      "id": 4,
+      "titulo": "Os Vingadores - Guerra Infinita",
+      "descricao": "Homem de Ferro, Capitão América, Thor, Hulk e os Vingadores se unem para combater o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a humanidade.",
+      "capa": "https://i.ytimg.com/vi/4jGRyEa2jhE/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/4jGRyEa2jhE",
+      "linkRedirect": "https://www.youtube.com/watch?v=4jGRyEa2jhE",
+      "categoria": "Marvel",
+      "videoDestaque": false
+    },
+    {
+      "id": 5,
+      "titulo": "Os Vingadores - Ultimato",
+      "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+      "capa": "https://i.ytimg.com/vi/PgrmbRID0eY/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/PgrmbRID0eY",
+      "linkRedirect": "https://www.youtube.com/watch?v=PgrmbRID0eY",
+      "categoria": "Marvel",
+      "videoDestaque": false
+    },
+    {
+      "id": 6,
+      "titulo": "Besouro Azul",
+      "descricao": "O adolescente Jaime Reyes ganha superpoderes quando um misterioso escaravelho se prende à sua coluna e lhe fornece uma poderosa armadura alienígena azul.",
+      "capa": "https://i.ytimg.com/vi/sqHP-zdvXG8/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/sqHP-zdvXG8",
+      "linkRedirect": "https://www.youtube.com/watch?v=sqHP-zdvXG8",
+      "categoria": "DC Comics",
+      "videoDestaque": false
+    },
+    {
+      "id": 7,
+      "titulo": "Shazan - A fúria dos deuses",
+      "descricao": "Deuses antigos chegam à Terra em busca da magia roubada deles há muito tempo. Shazam e seus aliados são lançados em uma batalha por seus superpoderes, suas vidas e o destino do mundo.",
+      "capa": "https://i.ytimg.com/vi/Jl4DCMw6Frc/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/Jl4DCMw6Frc",
+      "linkRedirect": "https://www.youtube.com/watch?v=Jl4DCMw6Frc",
+      "categoria": "DC Comics",
+      "videoDestaque": false
+    },
+    {
+      "id": 8,
+      "titulo": "Batman - O Cavaleiro das Trevas",
+      "descricao": "Batman tem conseguido manter a ordem em Gotham com a ajuda de Jim Gordon e Harvey Dent. No entanto, um jovem e anárquico criminoso, conhecido apenas como Coringa, pretende testar o Cavaleiro das Trevas e mergulhar a cidade em um verdadeiro caos.",
+      "capa": "https://i.ytimg.com/vi/_8Hjj7Ka7VE/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/zqfz04yCTnE",
+      "linkRedirect": "https://www.youtube.com/watch?v=zqfz04yCTnE",
+      "categoria": "DC Comics",
+      "videoDestaque": false
+    },
+    {
+      "id": 9,
+      "titulo": "The Batman",
+      "descricao": "Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.",
+      "capa": "https://i.ytimg.com/vi/rsQEor4y2hg/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/rsQEor4y2hg",
+      "linkRedirect": "https://www.youtube.com/watch?v=rsQEor4y2hg",
+      "categoria": "DC Comics",
+      "videoDestaque": true
+    },
+    {
+      "id": 10,
+      "titulo": "Liga Da Justiça de Zack Snyder",
+      "descricao": "Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, pode ser tarde demais para salvar o planeta de um catastrófico ataque.",
+      "capa": "https://i.ytimg.com/vi/BifA90UAQtg/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/BifA90UAQtg",
+      "linkRedirect": "https://www.youtube.com/watch?v=BifA90UAQtg",
+      "categoria": "DC Comics",
+      "videoDestaque": false
+    },
+    {
+      "id": 11,
+      "titulo": "Starfield",
+      "descricao": "O RPG imersivo de última geração da Bethesda Game Studios, Starfield, chega no dia 6 de setembro! Preparem-se para uma jornada épica com o novo trailer de revelação de jogabilidade do Starfield durante o Xbox Games Showcase. Desde exploração e combate espacial até armas, criaturas e cidades, o que não falta são coisas para ver. ",
+      "capa": "https://i.ytimg.com/vi/vVP-41wMO4I/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/vVP-41wMO4I",
+      "linkRedirect": "https://www.youtube.com/watch?v=vVP-41wMO4I",
+      "categoria": "Games",
+      "videoDestaque": true
+    },
+    {
+      "id": 12,
+      "titulo": "Spider Man 2",
+      "descricao": "Os Spider-Men Peter Parker e Miles Morales precisam conciliar os novos desafios em suas vidas com suas responsabilidades como protetores da Nova York da Marvel. A volta de Harry Osborne, o melhor amigo de Peter, e as aspirações de Miles para seu futuro ao terminar o colégio colocam o relacionamento entre nossos heróis à prova. A situação fica ainda mais complexa com a chegada do Simbionte, que ameaça não só sua cidade, como as pessoas que eles amam.",
+      "capa": "https://i.ytimg.com/vi/07bcyesxbrg/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/07bcyesxbrg",
+      "linkRedirect": "https://www.youtube.com/watch?v=07bcyesxbrg",
+      "categoria": "Games",
+      "videoDestaque": false
+    },
+    {
+      "id": 13,
+      "titulo": "Hogwarts Legacy",
+      "descricao": "Hogwarts Legacy é um RPG de ação e mundo aberto ambientado no mundo apresentado nos livros de Harry Potter. Agora você pode assumir o controle da ação e criar sua própria aventura. Descubra a sensação de viver em Hogwarts enquanto faz aliados, luta contra bruxos das trevas e, por fim, decide o destino do mundo bruxo. Seu legado é o que você faz dele.",
+      "capa": "https://i.ytimg.com/vi/78CP8na1Fpo/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/78CP8na1Fpo",
+      "linkRedirect": "https://www.youtube.com/watch?v=78CP8na1Fpo",
+      "categoria": "Games",
+      "videoDestaque": false
+    },
+    {
+      "id": 14,
+      "titulo": "Zelda - Tears of The Kingdom",
+      "descricao": "Nesta continuação de The Legend of Zelda: Breath of the Wild, você decidirá seu próprio caminho pelas extensas paisagens de Hyrule e pelas misteriosas ilhas flutuantes nos vastos céus. Será que você conseguirá aproveitar o poder das novas habilidades de Link para lutar contra as forças malévolas que ameaçam o reino?",
+      "capa": "https://i.ytimg.com/vi/uHGShqcAHlQ/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/uHGShqcAHlQ",
+      "linkRedirect": "https://www.youtube.com/watch?v=uHGShqcAHlQ",
+      "categoria": "Games",
+      "videoDestaque": false
+    },
+    {
+      "id": 15,
+      "titulo": "Red Dead Redemption 2",
+      "descricao": "A história se passa em 1899 em uma representação ficcional do oeste, meio-oeste e sul dos Estados Unidos e acompanha o fora da lei Arthur Morgan, que precisa lidar com o declínio do Velho Oeste e sobreviver à perseguição de forças governamentais, gangues rivais e outros adversários.",
+      "capa": "https://i.ytimg.com/vi/eaW0tYpxyp0/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/eaW0tYpxyp0",
+      "linkRedirect": "https://www.youtube.com/watch?v=eaW0tYpxyp0",
+      "categoria": "Games",
+      "videoDestaque": false
+    },
+    {
+      "id": 16,
+      "titulo": "Transformação Digital",
+      "descricao": "Entenda o que é Transformação Digital, quais os caminhos a se evitar e qual deve ser o seu objetivo para começar a fazer uma transformação digital na sua empresa. ",
+      "capa": "https://i.ytimg.com/vi/Z-N5Fr9P-GU/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/Z-N5Fr9P-GU",
+      "linkRedirect": "https://www.youtube.com/watch?v=Z-N5Fr9P-GU",
+      "categoria": "Alura",
+      "videoDestaque": true
+    },
+    {
+      "id": 17,
+      "titulo": "useState: aprenda o React Hook neste Tutorial #AluraMais",
+      "descricao": "Entenda neste tutorial de Hooks React, sobre o que é o useState e porque usá-lo é importante para buscar dados, atualizar estados e renderizar a sua aplicação. Aprenda a como usar o useState na prática e com diferentes soluções para resolver exemplos do dia a dia.",
+      "capa": "https://i.ytimg.com/vi/KdQa4Rd6K1A/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/KdQa4Rd6K1A",
+      "linkRedirect": "https://www.youtube.com/watch?v=KdQa4Rd6K1A",
+      "categoria": "Alura",
+      "videoDestaque": false
+    },
+    {
+      "id": 18,
+      "titulo": "O que é Node.js? #AluraMais",
+      "descricao": "A Juliana Amoasei, Instrutora na Escola de Programação aqui na Alura, apresenta a vocês o Node.js, o ambiente de execução do Javascript. ",
+      "capa": "https://i.ytimg.com/vi/8VSTrZY8vwI/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/8VSTrZY8vwI",
+      "linkRedirect": "https://www.youtube.com/watch?v=8VSTrZY8vwI",
+      "categoria": "Alura",
+      "videoDestaque": false
+    },
+    {
+      "id": 19,
+      "titulo": "Guia de Carreira Angular",
+      "descricao": "Veja como é a curva de aprendizado dessa tecnologia e o passo a passo para sair do INICIANTE ao AVANÇADO, passando desde os fundamentos com HTML, CSS e JavaScript, até mergulhos mais profundos com POO, RxJS, observable, Angular CLI, comandos, services, módulos, gerenciamento de estado, formulários, testes, GraphQL, Nest.JS, Design System, Angular Material e muito mais!",
+      "capa": "https://i.ytimg.com/vi/mXtDHJRVoJo/maxresdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/mXtDHJRVoJo",
+      "linkRedirect": "https://www.youtube.com/watch?v=mXtDHJRVoJo",
+      "categoria": "Alura",
+      "videoDestaque": false
+    },
+    {
+      "id": 20,
+      "titulo": "Guia de Carreira Front-end",
+      "descricao": "Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T.",
+      "capa": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg",
+      "linkEmbed": "https://www.youtube.com/embed/fpth65ts3cw",
+      "linkRedirect": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "categoria": "Alura",
+      "videoDestaque": false
+    }
+  ]
+}

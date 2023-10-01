@@ -1,0 +1,147 @@
+.tableArea {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  width: 800px;
+  margin: 10px auto 30px;
+}
+
+/* Estilização da tabela */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 0 25px -1px #0e0c0c;
+  -webkit-box-shadow: 0 0 25px -1px #0e0c0c;
+  -moz-box-shadow: 0 0 25px -1px #0e0c0c;
+}
+
+/* Estilo do cabeçalho da tabela */
+thead {
+  background-color: var(--black-800);
+}
+
+th {
+  padding: 12px;
+  text-align: center;
+}
+
+/* Estilo das células de dados */
+td {
+  width: 100px;
+  padding: 12px;
+  text-align: center;
+}
+
+td.tdCor{
+  width: 80px;
+}
+
+td.tdVideoDestaque{
+  width: 250px;
+
+  & div{
+    width: 100%;
+  }
+}
+
+.selectCor{
+  cursor: pointer;
+  
+}
+
+
+/* Estilo das células de dados com fundo alternado para melhor legibilidade */
+tbody tr:nth-child(even) {
+  background-color: var(--black-600);
+}
+
+tbody tr:nth-child(odd) {
+  background-color: var(--blue-500);
+}
+
+
+/* Estilização da coluna "Categoria Banner?" */
+td:last-child {
+  text-align: center;
+}
+
+/* Estilo dos ícones de categoria banner */
+td:last-child svg {
+  font-size: 1.5rem;
+}
+
+.boxModalDel{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 340px;
+  background-color:var(--black-800);
+  border: 3px solid var(--black-600);
+  border-radius: .8rem;
+  padding: 1rem 1.5rem;
+  box-shadow: 0px 11px 15px -7px rgba(0,0,0,0.2), 0px 24px 38px 3px rgba(0,0,0,0.14), 0px 9px 46px 8px rgba(0,0,0,0.12);
+}
+
+.button{
+  border-color: var(--red-800) !important;
+  color: var(--red-800) !important;
+  font-family: var(--font-padrao) !important;
+  font-weight: 600 !important;
+  letter-spacing: .175rem !important;
+  transition: all .4s ease !important;
+  background-color: var(--white) !important;
+
+  &:hover{
+    background-color: #dfd0d0 !important;
+    color: var(--blue-800) !important;
+    border-color: var(--blue-800) !important;
+  }
+}
+
+.flex{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .tableArea{
+    width: auto;
+  }
+}  
+
+table.mobile {
+  max-width: 350px;
+  
+  & th{
+    background-color: var(--black-800);
+  }
+
+  & td {
+    width: 100px;
+    padding: 12px;
+    text-align: center;
+  }
+  
+  & td.tdCor{
+    width: 120px;
+
+    & .selectCor{
+      width: 50%;
+    }
+  }
+  
+  & td.tdVideoDestaque{
+    width: 200px;
+  
+    & div{
+      width: 100%;
+    }
+  }
+  
+}

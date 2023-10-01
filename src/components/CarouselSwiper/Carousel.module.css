@@ -1,0 +1,15 @@
+:root{
+  --swiper-navigation-color: var(--blue-700);
+  --swiper-pagination-color: var(--blue-700);
+}
+
+main .swiperContainer{
+  margin-top: -130px;
+  padding: 2rem;
+}
+
+@media screen and (max-width:650px) {
+  main .swiperContainer{
+    margin: auto;
+  }
+}
